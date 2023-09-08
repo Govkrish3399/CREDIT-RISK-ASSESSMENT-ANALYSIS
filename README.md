@@ -2,7 +2,7 @@
 
 Introduction:
 
-Banking and financial services intend to understand how data is used to minimize the risk of losing money while lending to costumers. In this project we try to understand the driving factors behind loan default. Bank and financial services can employ this wisdom for their risk assessment and portfolio.
+Banking and financial services intend to understand how data is used to minimize the risk of losing money while lending to consumers. In this project we try to understand the driving factors behind loan default. Bank and financial services can employ this wisdom for their risk assessment and portfolio.
 Exploratory Data Analysis(EDA) helps to gain valuable insights using the existing data granted from client and loans in the past few years.
 
 Problem Statements:
